@@ -9,6 +9,7 @@ This section is a work in progress.
 1. A complete ground texture tile set extracted from Fighters Anthology (FA).
 2. Tiled (https://www.mapeditor.org/)
 3. Patience and creativity when translating real world maps into the blocky tiles that FA uses.
+4. At least Microsoft .NET Framework Version 4.6 (https://www.microsoft.com/net/download/dotnet-framework-runtime/net462)
 
 ### Procedure
 
